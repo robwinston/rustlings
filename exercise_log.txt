@@ -20,3 +20,4 @@
 ✅ Successfully tested exercises/structs/structs1.rs
 ✅ Successfully tested exercises/structs/structs2.rs
 ✅ Successfully ran exercises/strings/strings1.rs!
+✅ Successfully ran exercises/strings/strings2.rs!
