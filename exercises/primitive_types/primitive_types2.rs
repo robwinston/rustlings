@@ -2,8 +2,6 @@
 // Fill in the rest of the line that has code missing!
 // No hints, there's no tricks, just get used to typing these :)
 
-// I AM NOT DONE
-
 fn main() {
     // Characters (`char`)
 
@@ -16,14 +14,24 @@ fn main() {
         println!("Neither alphabetic nor numeric!");
     }
 
-    let // Finish this line like the example! What's your favorite character?
+    // Finish this line like the example! What's your favorite character?
     // Try a letter, try a number, try a special character, try a character
     // from a different language than your own, try an emoji!
+
+    println!("{} is {}", 'ф', test_a_char(&'ф'));
+
+    let test_chars = ['§', '1', 'q', 'й'];
+    for test_char in test_chars.iter() {
+        println!("{} is {}", test_char, test_a_char(test_char));
+    }
+}
+
+fn test_a_char(your_character: &char) -> String {
     if your_character.is_alphabetic() {
-        println!("Alphabetical!");
+        String::from("Alphabetical!")
     } else if your_character.is_numeric() {
-        println!("Numerical!");
+        String::from("Numerical!")
     } else {
-        println!("Neither alphabetic nor numeric!");
+        String::from("Neither alphabetic nor numeric!")
     }
 }
