@@ -18,3 +18,4 @@
 ✅ Successfully ran exercises/primitive_types/primitive_types5.rs!
 ✅ Successfully ran exercises/primitive_types/primitive_types6.rs!
 ✅ Successfully tested exercises/structs/structs1.rs
+✅ Successfully tested exercises/structs/structs2.rs
