@@ -15,3 +15,4 @@
 ✅ Successfully ran exercises/primitive_types/primitive_types2.rs!
 ✅ Successfully ran exercises/primitive_types/primitive_types3.rs!
 ✅ Successfully tested exercises/primitive_types/primitive_types4.rs
+✅ Successfully ran exercises/primitive_types/primitive_types5.rs!
