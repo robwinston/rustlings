@@ -3,3 +3,4 @@
 ✅ Successfully ran exercises/variables/variables2.rs!
 ✅ Successfully ran exercises/variables/variables3.rs!
 ✅ Successfully ran exercises/variables/variables4.rs!
+✅ Successfully ran exercises/variables/variables5.rs!
