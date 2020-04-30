@@ -6,3 +6,4 @@
 ✅ Successfully ran exercises/variables/variables5.rs!
 ✅ Successfully tested exercises/if/if1.rs
 ✅ Successfully ran exercises/functions/functions1.rs!
+✅ Successfully ran exercises/functions/functions2.rs!
