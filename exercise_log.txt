@@ -1,3 +1,4 @@
 29-04-2020
 ✅ Successfully ran exercises/variables/variables1.rs!
 ✅ Successfully ran exercises/variables/variables2.rs!
+✅ Successfully ran exercises/variables/variables3.rs!
