@@ -8,3 +8,4 @@
 ✅ Successfully ran exercises/functions/functions1.rs!
 ✅ Successfully ran exercises/functions/functions2.rs!
 ✅ Successfully ran exercises/functions/functions3.rs!
+✅ Successfully ran exercises/functions/functions4.rs!
