@@ -10,3 +10,4 @@
 ✅ Successfully ran exercises/functions/functions3.rs!
 ✅ Successfully ran exercises/functions/functions4.rs!
 ✅ Successfully ran exercises/functions/functions5.rs!
+✅ Successfully tested exercises/test1.rs
