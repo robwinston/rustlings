@@ -11,3 +11,4 @@
 ✅ Successfully ran exercises/functions/functions4.rs!
 ✅ Successfully ran exercises/functions/functions5.rs!
 ✅ Successfully tested exercises/test1.rs
+✅ Successfully ran exercises/primitive_types/primitive_types1.rs!
